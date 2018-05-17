@@ -93,7 +93,20 @@ textarea{
 	justify-content: space-around;
 	align-items: center;
 }
+#about{
+    padding: 40px 0;
+}
 
+#about div p{
+	text-align: center;
+	line-height: 25px;
+	font-family: 'Maven Pro', sans-serif;
+	margin: 0 20px;
+}
+#about h1{
+    font-family: 'Do Hyeon', Arial;
+    text-align: center;
+}
 
 @media screen and (max-width: 768px){
     .q{
